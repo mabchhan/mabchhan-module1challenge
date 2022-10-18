@@ -29,8 +29,10 @@ GIVEN a webpage meets accessibility standards:
 
 ### Link
 
-- link to repo
+- link to Github repo
 
-  \_ https://github.com/mabchhan/mabchhan-module1challenge
+  - https://github.com/mabchhan/mabchhan-module1challenge
 
-- link to live
+- link to deployed URL
+
+  - https://mabchhan.github.io/mabchhan-module1challenge/
